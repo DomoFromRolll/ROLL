@@ -2,4 +2,5 @@ Hi Devs this is the official RBXRoll front end github repository, there are no s
 
 
 
-Things done; Logins, Stat Page, Blackjack chat and buttons, roulette chat and buttons, coinflip chat and buttons, only thing not done is crash.
+Goodluck Kio! 
+Your the man.
