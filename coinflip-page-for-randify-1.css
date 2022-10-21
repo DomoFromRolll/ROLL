@@ -1,0 +1,1755 @@
+/* screen - coinflip-page-for-randify-1 */
+
+.coinflip-page-for-randify-1 {
+  align-items: flex-start;
+  background-color: var(--charade);
+  display: flex;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group15 {
+  height: 1105px;
+  margin-left: -38px;
+  margin-top: -25px;
+  position: relative;
+  width: 1958px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-1 {
+  background-color: var(--eerie-black);
+  border-radius: 15px;
+  height: 1043px;
+  left: 58px;
+  position: absolute;
+  top: 44px;
+  width: 371px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-2 {
+  background-color: var(--eerie-black);
+  border-radius: 15px;
+  box-shadow: 0px 0px 30px #00000040;
+  height: 52px;
+  left: 447px;
+  position: absolute;
+  top: 74px;
+  width: 1229px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-33 {
+  background-color: var(--electric-violet);
+  border-radius: 15px 0px 0px 15px;
+  box-shadow: 0px 0px 30px #00000040;
+  height: 52px;
+  left: 447px;
+  position: absolute;
+  top: 74px;
+  width: 128px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group-container {
+  height: 103px;
+  left: 348px;
+  position: absolute;
+  top: 49px;
+  width: 597px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group2 {
+  height: 61px;
+  left: 149px;
+  position: absolute;
+  top: 21px;
+  width: 448px;
+}
+
+.coinflip-page-for-randify-1 .place-1 {
+  height: 32px;
+  left: 297px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 12px;
+  width: 151px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group-2 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 212px;
+}
+
+.coinflip-page-for-randify-1 .blackjack {
+  height: 39px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 2px;
+  width: 212px;
+}
+
+.coinflip-page-for-randify-1 .new-project-2022-02-28-t091710-1 {
+  height: 45px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group1 {
+  height: 61px;
+  left: 208px;
+  position: absolute;
+  top: 0;
+  width: 156px;
+}
+
+.coinflip-page-for-randify-1 .crash {
+  height: 32px;
+  left: 5px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 151px;
+}
+
+.coinflip-page-for-randify-1 .new-project-2022-02-28-t093412-1 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
+
+.coinflip-page-for-randify-1 .new-project-2022-02-28-t093412-2 {
+  height: 28px;
+  left: 126px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 28px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group3-2 {
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 212px;
+}
+
+.coinflip-page-for-randify-1 .coinflip {
+  height: 39px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 29px;
+  width: 212px;
+}
+
+.coinflip-page-for-randify-1 .new-project-2022-02-28-t090203-1 {
+  height: 103px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 78px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-34 {
+  background-color: var(--eerie-black);
+  height: 35px;
+  left: 369px;
+  position: absolute;
+  top: 26px;
+  width: 1589px;
+}
+
+.coinflip-page-for-randify-1 .navbar-link-container {
+  height: 25px;
+  left: 447px;
+  position: absolute;
+  top: 29px;
+  width: 611px;
+}
+
+.coinflip-page-for-randify-1 .navbar-link-provably-fair {
+  height: 25px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.coinflip-page-for-randify-1 .navbar-link-leaderboards {
+  height: 25px;
+  left: 107px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.coinflip-page-for-randify-1 .navbar-link-terms-of-service {
+  height: 25px;
+  left: 216px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.coinflip-page-for-randify-1 .navbar-link-claims {
+  height: 25px;
+  left: 343px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.coinflip-page-for-randify-1 .navbar-link-affiliates {
+  height: 25px;
+  left: 406px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.coinflip-page-for-randify-1 .navbar-link-faq {
+  height: 25px;
+  left: 477px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-4 {
+  background-color: var(--charade);
+  border-radius: 15px 15px 50px 50px;
+  box-shadow: 0px 4px 16px #00000040;
+  height: 210px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 376px;
+}
+
+.coinflip-page-for-randify-1 .image_2022-04-17_102702722-1 {
+  height: 103px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 257px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group6 {
+  height: 26px;
+  left: 354px;
+  position: absolute;
+  top: 181px;
+  width: 70px;
+}
+
+.coinflip-page-for-randify-1 .number {
+  height: 19px;
+  left: 1px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 69px;
+}
+
+.coinflip-page-for-randify-1 .image_2022-05-13_203515132-1 {
+  height: 26px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.coinflip-page-for-randify-1 .group-44 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 76px;
+  min-height: 927px;
+  position: absolute;
+  top: 74px;
+  width: 1577px;
+}
+
+.coinflip-page-for-randify-1 .group-135 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  min-width: 154px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group-3 {
+  height: 52px;
+  position: relative;
+  width: 109px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-97 {
+  background-color: var(--electric-violet-2);
+  box-shadow: 0px 0px 30px #00000040;
+  height: 52px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.coinflip-page-for-randify-1 .masked-wallet-icon-bg {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 105px;
+}
+
+.coinflip-page-for-randify-1 .wallet-icon {
+  height: 23px;
+  margin-bottom: 3.0px;
+  margin-left: 21px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.coinflip-page-for-randify-1 .group-34 {
+  align-items: flex-start;
+  display: flex;
+  height: 53px;
+  margin-left: 3px;
+  margin-top: 95px;
+  min-width: 265px;
+}
+
+.coinflip-page-for-randify-1 .group-33 {
+  align-self: flex-end;
+  background-image: url(../img/ellipse-2-37@2x.png);
+  background-size: 100% 100%;
+  height: 52px;
+  margin-bottom: 0;
+  width: 52px;
+}
+
+.coinflip-page-for-randify-1 .chat-user-messages-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 13px;
+  min-height: 53px;
+  width: 200px;
+}
+
+.coinflip-page-for-randify-1 .nandanly-trades {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-height: 20px;
+  width: 200px;
+}
+
+.coinflip-page-for-randify-1 .this-is-just-an-ui-d {
+  letter-spacing: 0;
+  margin-left: 0;
+  margin-top: 4px;
+  min-height: 28px;
+  width: 200px;
+}
+
+.coinflip-page-for-randify-1 .group {
+  align-items: flex-start;
+  display: flex;
+  height: 53px;
+  margin-left: 3px;
+  margin-top: 14px;
+  min-width: 265px;
+}
+
+.coinflip-page-for-randify-1 .group-33-1 {
+  align-self: flex-end;
+  background-image: url(../img/ellipse-2-38@2x.png);
+  background-size: 100% 100%;
+  height: 52px;
+  margin-bottom: 0;
+  width: 52px;
+}
+
+.coinflip-page-for-randify-1 .chat-user-messages {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 13px;
+  margin-top: 0;
+  min-height: 53px;
+  width: 200px;
+}
+
+.coinflip-page-for-randify-1 .group-33-2 {
+  align-self: flex-end;
+  background-image: url(../img/ellipse-2-40@2x.png);
+  background-size: 100% 100%;
+  height: 52px;
+  margin-bottom: 0;
+  width: 52px;
+}
+
+.coinflip-page-for-randify-1 .group-44-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 53px;
+  margin-left: 3px;
+  margin-top: 10px;
+  min-width: 265px;
+}
+
+.coinflip-page-for-randify-1 .group-45 {
+  align-items: flex-start;
+  display: flex;
+  height: 53px;
+  margin-top: 11px;
+  min-width: 265px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-10 {
+  background-color: var(--charade);
+  border-radius: 5px 5px 15px 15px;
+  box-shadow: 0px 0px 30px #00000040;
+  height: 58px;
+  left: 71px;
+  position: absolute;
+  top: 1017px;
+  width: 344px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group7 {
+  height: 26px;
+  left: 85px;
+  position: absolute;
+  top: 1032px;
+  width: 273px;
+}
+
+.coinflip-page-for-randify-1 .type-your-message {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 193px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-11 {
+  background-color: var(--white);
+  border-radius: 50px;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 273px;
+}
+
+.coinflip-page-for-randify-1 .send-icon-png {
+  height: 20px;
+  left: 372px;
+  object-fit: cover;
+  position: absolute;
+  top: 1035px;
+  width: 20px;
+}
+
+.coinflip-page-for-randify-1 .line-1 {
+  height: 779px;
+  left: 414px;
+  position: absolute;
+  top: 213px;
+  width: 2px;
+}
+
+.coinflip-page-for-randify-1 .line-2 {
+  height: 38px;
+  left: 415px;
+  position: absolute;
+  top: 925px;
+  width: 1px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-12 {
+  background-color: var(--eerie-black-2);
+  border-radius: 15px;
+  box-shadow: 0px 0px 15px #00000040;
+  height: 138px;
+  left: 447px;
+  position: absolute;
+  top: 159px;
+  width: 1488px;
+}
+
+.coinflip-page-for-randify-1 .group-container-1 {
+  height: 62px;
+  left: 411px;
+  position: absolute;
+  top: 196px;
+  width: 502px;
+}
+
+.coinflip-page-for-randify-1 .group-46 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 62px;
+  position: absolute;
+  top: 0;
+  width: 234px;
+}
+
+.coinflip-page-for-randify-1 .all-games {
+  height: 30px;
+  letter-spacing: 0;
+  margin-top: -1px;
+  text-align: center;
+  width: 230px;
+}
+
+.coinflip-page-for-randify-1 .number-1 {
+  height: 30px;
+  letter-spacing: 0;
+  margin-top: 2px;
+  text-align: center;
+  width: 230px;
+}
+
+.coinflip-page-for-randify-1 .group-48 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 268px;
+  min-height: 62px;
+  position: absolute;
+  top: 0;
+  width: 234px;
+}
+
+.coinflip-page-for-randify-1 .joinable-games {
+  height: 30px;
+  letter-spacing: 0;
+  margin-top: -1px;
+  text-align: center;
+  width: 230px;
+}
+
+.coinflip-page-for-randify-1 .number-2 {
+  height: 30px;
+  letter-spacing: 0;
+  margin-top: 2px;
+  text-align: center;
+  width: 230px;
+}
+
+.coinflip-page-for-randify-1 .group-47 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 125px;
+  min-height: 62px;
+  position: absolute;
+  top: 0;
+  width: 234px;
+}
+
+.coinflip-page-for-randify-1 .total-value {
+  height: 30px;
+  letter-spacing: 0;
+  margin-top: -1px;
+  text-align: center;
+  width: 230px;
+}
+
+.coinflip-page-for-randify-1 .text-76 {
+  height: 30px;
+  letter-spacing: 0;
+  margin-top: 2px;
+  text-align: center;
+  width: 230px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group9-1 {
+  height: 56px;
+  left: 1754px;
+  position: absolute;
+  top: 196px;
+  width: 160px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-13 {
+  background-color: var(--golden-grass);
+  border-radius: 15px;
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 160px;
+}
+
+.coinflip-page-for-randify-1 .history {
+  height: 55px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 160px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-15 {
+  background-color: var(--eerie-black-2);
+  border-radius: 15px 15px 0px 0px;
+  box-shadow: 0px 0px 25px #00000040;
+  height: 754px;
+  left: 447px;
+  position: absolute;
+  top: 321px;
+  width: 1495px;
+}
+
+.coinflip-page-for-randify-1 .group-68 {
+  height: 49px;
+  left: 1706px;
+  position: absolute;
+  top: 74px;
+  width: 234px;
+}
+
+.coinflip-page-for-randify-1 .group-64 {
+  align-items: flex-start;
+  box-shadow: 0px 0px 30px #00000040;
+  display: flex;
+  height: 338px;
+  left: 470px;
+  min-width: 1274px;
+  position: absolute;
+  top: 347px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group4 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  min-height: 335px;
+  width: 288px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--mirage);
+  border-radius: 15px 15px 0px 0px;
+  display: flex;
+  height: 121px;
+  min-width: 288px;
+  padding: 7.3px 21.0px;
+}
+
+.coinflip-page-for-randify-1 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 100px;
+  width: 91px;
+}
+
+.coinflip-page-for-randify-1 .ellipse {
+  height: 82px;
+  margin-right: 4.2px;
+  width: 82px;
+}
+
+.coinflip-page-for-randify-1 .nandanly-trades-1 {
+  height: 16px;
+  letter-spacing: 0;
+  margin-top: 2px;
+  text-align: center;
+  width: 91px;
+}
+
+.coinflip-page-for-randify-1 .vs {
+  align-self: center;
+  height: 25px;
+  letter-spacing: 0;
+  margin-bottom: 11.44px;
+  margin-left: 14px;
+  text-align: center;
+  width: 38px;
+}
+
+.coinflip-page-for-randify-1 .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 12px;
+  min-height: 100px;
+  width: 91px;
+}
+
+.coinflip-page-for-randify-1 .text-container {
+  height: 45px;
+  margin-right: 0;
+  margin-top: 4px;
+  position: relative;
+  width: 129px;
+}
+
+.coinflip-page-for-randify-1 .text {
+  height: 28px;
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 91px;
+}
+
+.coinflip-page-for-randify-1 .text-1 {
+  height: 28px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 129px;
+}
+
+.coinflip-page-for-randify-1 .group-1 {
+  align-items: center;
+  background-color: var(--eerie-black);
+  border-radius: 15px;
+  display: flex;
+  height: 83px;
+  margin-left: 1.05px;
+  margin-top: 1px;
+  min-width: 262px;
+  padding: 13.6px 18.9px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-container {
+  height: 43px;
+  margin-top: 0;
+  position: relative;
+  width: 98px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-7 {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-8 {
+  height: 43px;
+  left: 23px;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-9 {
+  height: 43px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.coinflip-page-for-randify-1 .line-3 {
+  align-self: flex-end;
+  height: 51px;
+  margin-left: 15px;
+  width: 1px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group3 {
+  height: 44px;
+  margin-bottom: 1.0px;
+  margin-left: 14px;
+  position: relative;
+  width: 98px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-container-1 {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 98px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-9-1 {
+  background-color: var(--charade);
+  border-radius: 21.5px;
+  box-shadow: 0px 0px 15px #00000040;
+  height: 43px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.coinflip-page-for-randify-1 .text-2 {
+  height: 43px;
+  left: 55px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 41px;
+}
+
+.coinflip-page-for-randify-1 .view {
+  height: 23px;
+  letter-spacing: 0;
+  margin-right: 0;
+  margin-top: 27px;
+  text-align: center;
+  width: 85px;
+}
+
+.coinflip-page-for-randify-1 .group-container {
+  align-items: center;
+  align-self: center;
+  background-color: var(--charade);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.1px;
+  margin-left: 43px;
+  min-height: 335px;
+  width: 288px;
+}
+
+.coinflip-page-for-randify-1 .vs-1 {
+  align-self: center;
+  height: 25px;
+  letter-spacing: 0;
+  margin-bottom: 11.44px;
+  margin-left: 14px;
+  text-align: center;
+  width: 38px;
+}
+
+.coinflip-page-for-randify-1 .flex-col-2 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 12px;
+  min-height: 101px;
+  width: 91px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group3-1 {
+  height: 85px;
+  margin-right: 4.2px;
+  position: relative;
+  width: 82px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-6 {
+  background-color: var(--eerie-black);
+  border-radius: 40.91px;
+  height: 82px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 82px;
+}
+
+.coinflip-page-for-randify-1 .text-3 {
+  height: 85px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 82px;
+}
+
+.coinflip-page-for-randify-1 .place {
+  height: 16px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 91px;
+}
+
+.coinflip-page-for-randify-1 .text-container-1 {
+  height: 45px;
+  margin-left: 2.1px;
+  margin-top: 4px;
+  position: relative;
+  width: 129px;
+}
+
+.coinflip-page-for-randify-1 .text-4 {
+  height: 28px;
+  left: 18px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 91px;
+}
+
+.coinflip-page-for-randify-1 .group-62 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0.95px;
+  margin-top: 17px;
+  min-height: 60px;
+  width: 111px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group-1 {
+  height: 35px;
+  margin-right: 2.0px;
+  margin-top: -1px;
+  position: relative;
+  width: 109px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-22 {
+  background-color: var(--golden-grass);
+  border-radius: 15px;
+  height: 34px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 108px;
+}
+
+.coinflip-page-for-randify-1 .join {
+  height: 34px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 109px;
+}
+
+.coinflip-page-for-randify-1 .view-1 {
+  height: 23px;
+  letter-spacing: 0;
+  margin-left: 1.15px;
+  margin-top: 2px;
+  text-align: center;
+  width: 85px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group8 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--charade);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0;
+  margin-left: 43px;
+  min-height: 335px;
+  width: 288px;
+}
+
+.coinflip-page-for-randify-1 .vs-2 {
+  align-self: center;
+  height: 25px;
+  letter-spacing: 0;
+  margin-bottom: 11.44px;
+  margin-left: 14px;
+  text-align: center;
+  width: 38px;
+}
+
+.coinflip-page-for-randify-1 .text-container-2 {
+  height: 45px;
+  margin-left: 0;
+  margin-top: 4px;
+  position: relative;
+  width: 129px;
+}
+
+.coinflip-page-for-randify-1 .view-2 {
+  height: 23px;
+  letter-spacing: 0;
+  margin-left: 0;
+  margin-top: 27px;
+  text-align: center;
+  width: 85px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group9 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 35px;
+  min-height: 335px;
+  width: 288px;
+}
+
+.coinflip-page-for-randify-1 .vs-3 {
+  align-self: center;
+  height: 25px;
+  letter-spacing: 0;
+  margin-bottom: 11.44px;
+  margin-left: 14px;
+  text-align: center;
+  width: 38px;
+}
+
+.coinflip-page-for-randify-1 .group-82 {
+  align-items: flex-start;
+  box-shadow: 0px 0px 30px #00000040;
+  display: flex;
+  height: 338px;
+  left: 470px;
+  min-width: 1274px;
+  position: absolute;
+  top: 705px;
+}
+
+.coinflip-page-for-randify-1 .vs-4 {
+  align-self: center;
+  height: 25px;
+  letter-spacing: 0;
+  margin-bottom: 11.44px;
+  margin-left: 14px;
+  text-align: center;
+  width: 38px;
+}
+
+.coinflip-page-for-randify-1 .vs-5 {
+  align-self: center;
+  height: 25px;
+  letter-spacing: 0;
+  margin-bottom: 11.44px;
+  margin-left: 14px;
+  text-align: center;
+  width: 38px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-22-1 {
+  background-color: var(--electric-violet);
+  border-radius: 15px;
+  height: 34px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 108px;
+}
+
+.coinflip-page-for-randify-1 .vs-6 {
+  align-self: center;
+  height: 25px;
+  letter-spacing: 0;
+  margin-bottom: 11.44px;
+  margin-left: 14px;
+  text-align: center;
+  width: 38px;
+}
+
+.coinflip-page-for-randify-1 .vs-7 {
+  align-self: center;
+  height: 25px;
+  letter-spacing: 0;
+  margin-bottom: 11.44px;
+  margin-left: 14px;
+  text-align: center;
+  width: 38px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-23 {
+  background-color: var(--onyx);
+  border-radius: 0px 15px 0px 0px;
+  height: 754px;
+  left: 1924px;
+  position: absolute;
+  top: 321px;
+  width: 11px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-24 {
+  background-color: var(--electric-violet);
+  border-radius: 15px;
+  height: 63px;
+  left: 1924px;
+  position: absolute;
+  top: 338px;
+  width: 11px;
+}
+
+.coinflip-page-for-randify-1 .group-65 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  left: 978px;
+  min-width: 193px;
+  position: absolute;
+  top: 418px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-15 {
+  height: 33px;
+  width: 33px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-14 {
+  height: 33px;
+  margin-left: 127px;
+  width: 33px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group10 {
+  height: 56px;
+  left: 1580px;
+  position: absolute;
+  top: 196px;
+  width: 166px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-14 {
+  background-color: var(--electric-violet);
+  border-radius: 15px;
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 166px;
+}
+
+.coinflip-page-for-randify-1 .create {
+  height: 55px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 166px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group11 {
+  height: 691px;
+  left: 1765px;
+  position: absolute;
+  top: 349px;
+  width: 138px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-14-1 {
+  background-color: var(--charade);
+  border-radius: 15px;
+  height: 690px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 138px;
+}
+
+.coinflip-page-for-randify-1 .dasfgas {
+  height: 690px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 138px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group12 {
+  height: 675px;
+  left: 1774px;
+  position: absolute;
+  top: 360px;
+  width: 120px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-14-2 {
+  background-color: var(--eerie-black-2);
+  border-radius: 15px;
+  height: 668px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 120px;
+}
+
+.coinflip-page-for-randify-1 .past-10 {
+  height: 32px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 120px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-16 {
+  height: 89px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 85px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-18 {
+  height: 89px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 351px;
+  width: 85px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-17 {
+  height: 89px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 85px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-19 {
+  height: 89px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 509px;
+  width: 85px;
+}
+
+.coinflip-page-for-randify-1 .group-85 {
+  height: 410px;
+  left: 14px;
+  position: absolute;
+  top: 107px;
+  width: 88px;
+}
+
+.coinflip-page-for-randify-1 .group-86 {
+  height: 89px;
+  left: 17px;
+  position: absolute;
+  top: 265px;
+  width: 85px;
+}
+
+.coinflip-page-for-randify-1 .group-87 {
+  height: 89px;
+  left: 20px;
+  position: absolute;
+  top: 586px;
+  width: 85px;
+}
+
+.coinflip-page-for-randify-1 .purplelelele {
+  height: 1101px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 1940px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-85 {
+  background-color: var(--charade);
+  border-radius: 15px;
+  box-shadow: 0px 0px 40px #000000bf;
+  height: 628px;
+  left: 520px;
+  position: absolute;
+  top: 236px;
+  width: 1019px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-22 {
+  height: 106px;
+  left: 609px;
+  position: absolute;
+  top: 303px;
+  width: 106px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-23 {
+  height: 106px;
+  left: 1353px;
+  position: absolute;
+  top: 303px;
+  width: 106px;
+}
+
+.coinflip-page-for-randify-1 .domo-the-homo {
+  height: 31px;
+  left: 725px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 342px;
+  width: 132px;
+}
+
+.coinflip-page-for-randify-1 .kovax-is-short {
+  height: 31px;
+  left: 1232px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 342px;
+  width: 243px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-133 {
+  background-color: var(--electric-violet);
+  border-radius: 5px;
+  height: 23px;
+  left: 609px;
+  position: absolute;
+  top: 383px;
+  width: 23px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-86 {
+  background-color: var(--electric-violet);
+  border-radius: 5px;
+  height: 23px;
+  left: 1436px;
+  position: absolute;
+  top: 383px;
+  width: 23px;
+}
+
+.coinflip-page-for-randify-1 .number-3 {
+  height: 17px;
+  left: 612px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 385px;
+  width: 17px;
+}
+
+.coinflip-page-for-randify-1 .number-4 {
+  height: 17px;
+  left: 1439px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 385px;
+  width: 17px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-90 {
+  background-color: var(--electric-violet);
+  border-radius: 15px;
+  height: 34px;
+  left: 857px;
+  position: absolute;
+  top: 442px;
+  width: 183px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-126 {
+  background-color: var(--electric-violet);
+  border-radius: 15px;
+  height: 34px;
+  left: 951px;
+  position: absolute;
+  top: 402px;
+  width: 183px;
+}
+
+.coinflip-page-for-randify-1 .u-ser {
+  height: 31px;
+  left: 976px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 403px;
+  width: 181px;
+}
+
+.coinflip-page-for-randify-1 .u-ser-1 {
+  height: 31px;
+  left: 868px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 442px;
+  width: 181px;
+}
+
+.coinflip-page-for-randify-1 .u-ser-2 {
+  height: 68px;
+  left: 544px;
+  letter-spacing: 0;
+  opacity: 0.75;
+  position: absolute;
+  top: 258px;
+  width: 370px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-125 {
+  background-color: var(--electric-violet);
+  border-radius: 15px;
+  height: 34px;
+  left: 1045px;
+  position: absolute;
+  top: 442px;
+  width: 183px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-83 {
+  background-color: var(--bright-gray);
+  border-radius: 15px;
+  height: 346px;
+  left: 1040px;
+  position: absolute;
+  top: 474px;
+  width: 5px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-128 {
+  background-color: var(--bright-gray);
+  border-radius: 15px;
+  height: 267px;
+  left: 564px;
+  position: absolute;
+  top: 485px;
+  width: 5px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-129 {
+  background-color: var(--electric-violet);
+  border-radius: 15px;
+  height: 40px;
+  left: 564px;
+  position: absolute;
+  top: 495px;
+  width: 5px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-84 {
+  background-color: var(--electric-violet);
+  border-radius: 15px;
+  cursor: pointer;
+  height: 48px;
+  left: 1510px;
+  position: absolute;
+  top: 217px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-84:hover {
+  transform: scale(1.1);
+}
+
+.coinflip-page-for-randify-1 .x {
+  cursor: pointer;
+  height: 47px;
+  left: 1510px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 216px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.coinflip-page-for-randify-1 .x:hover {
+  transform: scale(1.1);
+}
+
+.coinflip-page-for-randify-1 .rectangle-121 {
+  height: 70px;
+  left: 579px;
+  object-fit: cover;
+  position: absolute;
+  top: 498px;
+  width: 76px;
+}
+
+.coinflip-page-for-randify-1 .u-ser-3 {
+  height: 31px;
+  left: 1068px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 442px;
+  width: 181px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-130 {
+  height: 70px;
+  left: 1437px;
+  object-fit: cover;
+  position: absolute;
+  top: 492px;
+  width: 76px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-127 {
+  height: 70px;
+  left: 579px;
+  object-fit: cover;
+  position: absolute;
+  top: 581px;
+  width: 76px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-131 {
+  height: 70px;
+  left: 1437px;
+  object-fit: cover;
+  position: absolute;
+  top: 575px;
+  width: 76px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-123 {
+  height: 70px;
+  left: 579px;
+  object-fit: cover;
+  position: absolute;
+  top: 663px;
+  width: 76px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-132 {
+  height: 70px;
+  left: 1437px;
+  object-fit: cover;
+  position: absolute;
+  top: 657px;
+  width: 76px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group13 {
+  align-items: center;
+  background-color: var(--electric-violet);
+  border-radius: 15px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 596px;
+  min-width: 189px;
+  padding: 0 14.5px;
+  position: absolute;
+  top: 437px;
+}
+
+.coinflip-page-for-randify-1 .percent {
+  height: 25px;
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  width: 60px;
+}
+
+.coinflip-page-for-randify-1 .rectangle-124 {
+  background-color: var(--charade);
+  height: 33px;
+  margin-left: 10px;
+  width: 5px;
+}
+
+.coinflip-page-for-randify-1 .r-96m {
+  height: 25px;
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  margin-left: 13px;
+  width: 65px;
+}
+
+.coinflip-page-for-randify-1 .overlap-group14 {
+  align-items: center;
+  background-color: var(--electric-violet);
+  border-radius: 15px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 1300px;
+  min-width: 189px;
+  padding: 0 14.5px;
+  position: absolute;
+  top: 437px;
+}
+
+.coinflip-page-for-randify-1 .r-32m {
+  height: 20px;
+  left: 928px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 522px;
+  width: 89px;
+}
+
+.coinflip-page-for-randify-1 .r-32m-1 {
+  height: 20px;
+  left: 1089px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 522px;
+  width: 89px;
+}
+
+.coinflip-page-for-randify-1 .r-32m-2 {
+  height: 20px;
+  left: 928px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 593px;
+  width: 89px;
+}
+
+.coinflip-page-for-randify-1 .r-32m-3 {
+  height: 20px;
+  left: 1093px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 593px;
+  width: 89px;
+}
+
+.coinflip-page-for-randify-1 .r-2m {
+  height: 20px;
+  left: 941px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 676px;
+  width: 89px;
+}
+
+.coinflip-page-for-randify-1 .r-2m-1 {
+  height: 20px;
+  left: 1098px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 674px;
+  width: 89px;
+}
+
+.coinflip-page-for-randify-1 .blackvalk {
+  height: 20px;
+  left: 732px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 522px;
+  width: 89px;
+}
+
+.coinflip-page-for-randify-1 .blackvalk-1 {
+  height: 20px;
+  left: 1260px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 522px;
+  width: 89px;
+}
+
+.coinflip-page-for-randify-1 .blackvalk-2 {
+  height: 20px;
+  left: 732px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 593px;
+  width: 89px;
+}
+
+.coinflip-page-for-randify-1 .blackvalk-3 {
+  height: 20px;
+  left: 1260px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 593px;
+  width: 89px;
+}
+
+.coinflip-page-for-randify-1 .purple-sparkletime {
+  height: 20px;
+  left: 689px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 677px;
+  width: 223px;
+}
+
+.coinflip-page-for-randify-1 .purple-sparkletime-1 {
+  height: 20px;
+  left: 1217px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 677px;
+  width: 223px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-25 {
+  height: 124px;
+  left: 978px;
+  object-fit: cover;
+  position: absolute;
+  top: 272px;
+  width: 128px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-24 {
+  height: 113px;
+  left: 987px;
+  object-fit: cover;
+  position: absolute;
+  top: 278px;
+  width: 113px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-16-1 {
+  height: 30px;
+  left: 1352px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 31px;
+}
+
+.coinflip-page-for-randify-1 .ellipse-16-2 {
+  height: 33px;
+  left: 687px;
+  position: absolute;
+  top: 379px;
+  width: 33px;
+}
+
+.coinflip-page-for-randify-1 .group-182 {
+  background-color: var(--charade);
+  background-image: url(../img/ellipse-26-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 16.5px;
+  height: 33px;
+  left: 1349px;
+  position: absolute;
+  top: 378px;
+  width: 33px;
+}
